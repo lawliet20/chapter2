@@ -25,6 +25,7 @@ public class CustomerServiceTest {
     @Before
     public void init(){
         //TODO  初始化数据库
+
     }
 
     @Test
