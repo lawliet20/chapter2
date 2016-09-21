@@ -50,13 +50,13 @@
             <version>5.1.33</version>
             <scope>runtime</scope>
         </dependency>
-        <!--apache commons lang-->
+        <!--工具类 apache commons lang-->
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-lang3</artifactId>
             <version>3.3.2</version>
         </dependency>
-        <!--apache commons collections-->
+        <!--工具类 apache commons collections-->
         <dependency>
             <groupId>org.apache.commons</groupId>
             <artifactId>commons-collections4</artifactId>
