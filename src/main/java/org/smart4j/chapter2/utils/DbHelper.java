@@ -145,6 +145,7 @@ public class DbHelper {
         List list = new ArrayList(filedMap.values());
         list.add(id);
         Object[] params = list.toArray();
+
         return executeUpdate(sql,params)==1;
     }
 
